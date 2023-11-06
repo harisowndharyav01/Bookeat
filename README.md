@@ -1,7 +1,4 @@
 
-![Logo](https://i.ibb.co/QnkpCyK/Git-banner.png)![Twitter Follow](https://img.shields.io/twitter/follow/Nya3ali?color=red&style=for-the-badge) 
-
-
 # Book`EAT
 
 A simple Online restaurant Table Booking system in PHP w/MySQL Database. 
@@ -17,10 +14,6 @@ After the booking has been accepted by the restaurant, the customer will get a c
 The Customers and Restaurants can also update/manage all their informations.
 
 
-## Demo : 
-
-https://youtu.be/EabhAZR9k0I
-
 
 ## Features
 
@@ -30,12 +23,3 @@ https://youtu.be/EabhAZR9k0I
 - Bootstrap
 - Jquery
 - SQL Database
-
-
-## 🚀 About Me
-I'm a full stack developer...
-And an Atckin Solej
-
-
-![Logo](https://i.ibb.co/TLtzz6H/3.png)
-
